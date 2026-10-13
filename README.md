@@ -77,7 +77,7 @@ and description before PDF download becomes available. Blank optional entries
 are omitted. Experience and projects appear in both formats.
 
 Optional additional personal information includes birthday, gender, civil
-status, religion, mother's maiden name, and father's maiden name. Filled values
+status, religion, mother's maiden name, and father's name. Filled values
 appear in both resume formats. These details remain in memory and are cleared
 with the form; they are not uploaded or saved.
 
