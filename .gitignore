@@ -1,3 +1,10 @@
 node_modules/
 webllm-inspect.js
 *.log
+
+# Local secrets and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
